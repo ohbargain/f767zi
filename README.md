@@ -1,16 +1,9 @@
-[![Build status](https://travis-ci.org/japaric/f3.svg?branch=master)](https://travis-ci.org/japaric/f3)
-[![crates.io](https://img.shields.io/crates/d/f3.svg)](https://crates.io/crates/f3)
-[![crates.io](https://img.shields.io/crates/v/f3.svg)](https://crates.io/crates/f3)
 
-# `f3`
+# `f767zi`
 
-> Board Support Crate for the STM32F3DISCOVERY
+> Board Support Crate for the STM32F767ZINUCLEO
 
-[STM32F3DISCOVERY]: http://www.st.com/en/evaluation-tools/stm32f3discovery.html
-
-## [Documentation](https://docs.rs/f3)
-
-## [Change log](CHANGELOG.md)
+[STM32F767ZINUCLEO]: http://www.st.com/en/evaluation-tools/stm32f3discovery.html
 
 ## License
 
